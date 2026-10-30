@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(73, 20, 220);
+    font-size: large;
+}
+
+label {
+    color: greenyellow;
+    font-size: large;
+}
+
+input {
+    color: rgb(35, 221, 35);
+    font-size: large;
+}
+
+p {
+    color: yellow;
+    font-size: large;
+}
+
+button {
+    color: rgb(0, 26, 255);
+    font-size: large;
+}
